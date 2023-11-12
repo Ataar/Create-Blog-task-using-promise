@@ -1,0 +1,75 @@
+body
+{
+    background-color:gray;
+}
+.hed01
+{
+   color:rgb(234, 221, 234);
+   background-color:rgb(39, 36, 36);
+   padding:10px;
+   text-transform: capitalize;
+   font-weight: bold;
+}
+/* .container
+{
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+} */
+
+.card01
+{
+    margin:5%  0 20% 0;
+    background-color:rgb(57, 23, 23);
+ 
+}
+.card01:hover
+{
+    background-color: #272525;
+}
+.style
+{
+ color:white;
+ font-weight:700;    
+}
+.btn-outline-success
+{
+    background-color:#04AA6D;
+    border:rgb(57, 113, 1);
+    border-radius:4px;
+     color: red;
+     padding:8px;
+     margin-top:8px;    
+}
+
+
+
+.text01
+{
+    background-color:green;
+    color:white;
+    font-size:20px;
+}
+.text02
+{
+    color:rgb(15, 14, 15);
+    font-size:20px;
+    font-family:Verdana;
+    
+}
+.card-footer
+{
+    padding:20px;
+}
+.card-footer button
+{
+    font-weight: bold;
+}
+button.info
+{
+    margin-right:20%;
+    padding:0.380rem 1.35rem;
+
+ 
+}
